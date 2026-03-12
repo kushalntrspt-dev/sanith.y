@@ -1,7 +1,7 @@
-class gitbash1
+class java
 {
-	public static void main string []args{
-		System.out.print("wellocme to tumkur");
+	public static void main (String []args){
+		System.out.println("wellocme to tumkur");
 	}
 }
 
